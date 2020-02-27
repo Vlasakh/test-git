@@ -1,3 +1,5 @@
-export default function some() {
+function some() {
   console.log('test some')
 }
+
+export default some
