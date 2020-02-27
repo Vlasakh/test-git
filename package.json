@@ -1,9 +1,9 @@
 {
   "name": "exa-common-ui",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "repository": "https://github.com/Vlasakh/test-git.git",
   "files": ["src/*"],
   "exports": {
-    "./": "./src/*"
+    "./": "./src/"
   }
 }
